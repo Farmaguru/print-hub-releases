@@ -1,0 +1,5 @@
+{
+  "version": "1.6",
+  "download_url": "https://github.com/Farmaguru/print-hub-releases/releases/latest/download/fg-print-hub.exe",
+  "changelog": "Versi 1.6: Berjalan senyap di background (-H=windowsgui), Cloud Bridge via Socket.IO realtime, multi-outlet pairing."
+}
