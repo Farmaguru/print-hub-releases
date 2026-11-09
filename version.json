@@ -1,5 +1,5 @@
 {
-  "version": "1.6",
-  "download_url": "https://github.com/Farmaguru/print-hub-releases/releases/latest/download/fg-print-hub.exe",
-  "changelog": "Versi 1.6: Berjalan senyap di background (-H=windowsgui), Cloud Bridge via Socket.IO realtime, multi-outlet pairing."
+  "version": "1.7",
+  "download_url": "https://github.com/Farmaguru/print-hub-releases/releases/download/v1.7/fg-print-hub-v1.7.exe",
+  "changelog": "Versi 1.7: Cloud Socket.IO checkPrinterStatus & printerStatusResult, respon real-time status printer thermal fisik ke Cloud, penanganan pemutusan koneksi otomatis ke FE & BE, dan update target repo rilis Farmaguru/print-hub-releases."
 }
